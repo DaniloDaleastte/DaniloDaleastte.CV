@@ -1,0 +1,38 @@
+.menu li {
+    float: left;
+    padding-right: 10px;
+}
+
+.menu li a {
+    display: block;
+    text-align: center;
+    padding: 15px 16px;
+}
+
+h1,
+ul {
+    margin-bottom: 1rem;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+p {
+    margin-bottom: 1rem;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 15px;
+}
+
+h2 {
+    color: #00fffb;
+}
+
+a {
+    color: #58a6ff;
+    margin-left: 2%;
+}
